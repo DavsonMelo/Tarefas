@@ -1,5 +1,5 @@
 Este projeto é um aplicativo para anotações de tarefas, criado com Next JS em uma serie de aulas do professor [@sujeitoprogramador](https://github.com/sujeitoprogramador). O que ocorre é que estas aulas são de mais ou menos 3 anos atrás e eu iniciei o projeto utilizando um npx create-next-app@latest tarefas --typescript
- . Isso me levou a uma versão 15 do Next e  19 do React. Como eu ja havia começado, resolvi seguir adiante. Mas tenho outro repositorio Tarefas-downgrade onde a versão é a 14 e o React é o 18. 
+ . Isso me levou a uma versão 15 do Next e  19 do React. Como eu ja havia começado, resolvi seguir adiante. Mas tenho outro repositorio Tarefas-downgrade onde a versão é a 14 e o React é o 18.<br /> 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
